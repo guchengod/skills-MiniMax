@@ -63,7 +63,7 @@ mkdir -p ~/.config/opencode/skills
 ln -s ~/.minimax-skills/skills/* ~/.config/opencode/skills/
 ```
 
-重启 OpenCode 以发现技能。详见 [`.opencode/INSTALL.md`](.opencode/INSTALL.md)。
+重启 OpenCode 以发现技能。详见 [`.opencode/INSTALL_zh.md`](.opencode/INSTALL_zh.md)。
 
 ### VS Code
 
