@@ -1,0 +1,1 @@
+# No external dependencies — uses minimax-music-gen scripts which require only Python standard library.
