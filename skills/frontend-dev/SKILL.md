@@ -13,6 +13,8 @@ metadata:
   category: frontend
   sources:
     - taste-skill by Leonxlnx (https://github.com/Leonxlnx/taste-skill) — Design engineering framework
+    - canvas-design by Anthropic (https://github.com/anthropics/skills/tree/main/skills/canvas-design) — Static visual art workflow
+    - algorithmic-art by Anthropic (https://github.com/anthropics/skills/tree/main/skills/algorithmic-art) — Generative art workflow
     - Framer Motion documentation
     - GSAP / GreenSock documentation
     - Three.js documentation
