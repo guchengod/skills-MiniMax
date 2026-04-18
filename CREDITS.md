@@ -10,8 +10,8 @@ The design engineering framework — including the design-variance system, motio
 
 The visual art section — including the philosophy-first workflow, static/interactive art modes, viewer template, and generator template — is derived from:
 
-- **[canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)** by Anthropic (Andi Brae) — Philosophy-first static visual art workflow. Apache 2.0 License.
-- **[algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)** by Anthropic (Andi Brae) — Philosophy-first generative art workflow with p5.js. Apache 2.0 License.
+- **[canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design)** by Anthropic (Andi Brae) — Philosophy-first static visual art workflow. [Apache 2.0 License](./LICENSES/Apache-2.0.txt).
+- **[algorithmic-art](https://github.com/anthropics/skills/tree/main/skills/algorithmic-art)** by Anthropic (Andi Brae) — Philosophy-first generative art workflow with p5.js. [Apache 2.0 License](./LICENSES/Apache-2.0.txt).
 
 MiniMax extended the original frameworks with MiniMax API asset generation, copywriting modules (AIDA/PAS/FAB), multi-framework support, accessibility guidelines, and additional motion presets.
 
